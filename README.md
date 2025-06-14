@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Srijan Ray!
+# 👋 Hi there, I'm Srijan!
 
 🎓 I'm a Computer Science major at **Georgia Tech**, concentrating in **Artificial Intelligence** and **Modeling and Simulation**.
 
