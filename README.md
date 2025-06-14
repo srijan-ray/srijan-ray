@@ -9,8 +9,6 @@
 - Data Analysis & Visualization
 - Full-Stack Development
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijan-ray)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🛠️ My Tech Stack & Tools
 
 ### Programming Languages
@@ -43,3 +41,5 @@
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijan-ray)](https://github.com/anuraghazra/github-readme-stats)
