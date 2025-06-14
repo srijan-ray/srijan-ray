@@ -9,6 +9,8 @@
 - Data Analysis & Visualization
 - Full-Stack Development
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijan-ray)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🛠️ My Tech Stack & Tools
 
 ### Programming Languages
