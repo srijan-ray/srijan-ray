@@ -9,7 +9,9 @@
 - Data Analysis & Visualization
 - Full-Stack Development
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijan-ray&layout=compact)
+<a href="https://github.com/srijan-ray">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijan-ray&theme=ayu-mirage&hide=css,html,markdown&langs_count=3" />
+</a>
 
 ## 🛠️ My Tech Stack & Tools
 
